@@ -65,8 +65,8 @@ function Container() {
                 </div>
 
                 <div className="image__container">
-                    <img src={ten} alt="Giraphy"></img>
-                    <h2>Giraphy</h2>
+                    <img src={ten} alt="Giraffe"></img>
+                    <h2>Giraffe</h2>
                 </div>
 
             </div>
